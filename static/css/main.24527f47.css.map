@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.24527f47.css","mappings":"AAAA,cACE,oBACF,CACA,iBACE,sBACF","sources":["App.css"],"sourcesContent":["#deaths:hover{\n  background-color: red;\n}\n#recovered:hover{\n  background-color: green;\n}"],"names":[],"sourceRoot":""}
